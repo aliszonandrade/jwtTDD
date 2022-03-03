@@ -1,0 +1,21 @@
+{
+  "name": "gerenciamentoImagens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "jest": "^27.5.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "supertest": "^6.2.2"
+  }
+}
